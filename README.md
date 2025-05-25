@@ -30,8 +30,8 @@ File Organizer is a simple desktop application designed to help you sort files i
 
 ## 🚀 Getting Started & How to Use
 
-1.  **Download:** Get the `FileOrganizer.exe` file from the [Releases](https://github.com/IQUXAe/File-Organizer/releases) page of this project.
-2.  **Run:** Simply double-click `FileOrganizer.exe` to start the application. No installation is needed!
+1.  **Download:** Get the `file_organizer.exe` file from the [Releases](https://github.com/IQUXAe/File-Organizer/releases) page of this project.
+2.  **Run:** Simply double-click `file_organizer.exe` to start the application. No installation is needed!
 3.  **Select Folder:** Click "Browse..." and choose the folder you want to organize.
 4.  **Customize (Optional):**
     * Click "Customize Categories..." to change how files are sorted (e.g., edit folder names, add new types of files to sort, or create entirely new categories).
