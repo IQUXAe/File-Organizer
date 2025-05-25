@@ -1,6 +1,6 @@
 # File Organizer v1.0 pre1
 
-Hi there! This is **File Organizer**, a desktop application created by **IQUXAe**.
+Hi there! This is **File Organizer**, a desktop application created by me(**IQUXAe**).
 
 **Please Note:** This is my very first project, so I'm still learning! Any feedback is welcome.
 
